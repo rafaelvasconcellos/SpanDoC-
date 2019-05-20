@@ -1,0 +1,11 @@
+C:\Users\rafael.vasconcellos\Documents\Rafael\projetos\TestandoSpan\TestandoSpan\bin\Debug\netcoreapp2.2\TestandoSpan.deps.json
+C:\Users\rafael.vasconcellos\Documents\Rafael\projetos\TestandoSpan\TestandoSpan\bin\Debug\netcoreapp2.2\TestandoSpan.runtimeconfig.json
+C:\Users\rafael.vasconcellos\Documents\Rafael\projetos\TestandoSpan\TestandoSpan\bin\Debug\netcoreapp2.2\TestandoSpan.runtimeconfig.dev.json
+C:\Users\rafael.vasconcellos\Documents\Rafael\projetos\TestandoSpan\TestandoSpan\bin\Debug\netcoreapp2.2\TestandoSpan.dll
+C:\Users\rafael.vasconcellos\Documents\Rafael\projetos\TestandoSpan\TestandoSpan\bin\Debug\netcoreapp2.2\TestandoSpan.pdb
+C:\Users\rafael.vasconcellos\Documents\Rafael\projetos\TestandoSpan\TestandoSpan\obj\Debug\netcoreapp2.2\TestandoSpan.csprojAssemblyReference.cache
+C:\Users\rafael.vasconcellos\Documents\Rafael\projetos\TestandoSpan\TestandoSpan\obj\Debug\netcoreapp2.2\TestandoSpan.csproj.CoreCompileInputs.cache
+C:\Users\rafael.vasconcellos\Documents\Rafael\projetos\TestandoSpan\TestandoSpan\obj\Debug\netcoreapp2.2\TestandoSpan.AssemblyInfoInputs.cache
+C:\Users\rafael.vasconcellos\Documents\Rafael\projetos\TestandoSpan\TestandoSpan\obj\Debug\netcoreapp2.2\TestandoSpan.AssemblyInfo.cs
+C:\Users\rafael.vasconcellos\Documents\Rafael\projetos\TestandoSpan\TestandoSpan\obj\Debug\netcoreapp2.2\TestandoSpan.dll
+C:\Users\rafael.vasconcellos\Documents\Rafael\projetos\TestandoSpan\TestandoSpan\obj\Debug\netcoreapp2.2\TestandoSpan.pdb
